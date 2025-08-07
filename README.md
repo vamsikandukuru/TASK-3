@@ -24,11 +24,11 @@ This project contains a vulnerability assessment performed on the Metasploitable
 
 ---
 
-## 📂 Files Included
+##  Files Included
 
-- `nessus_report.html`: Raw Nessus scan report
-- `screenshots/`: Folder containing evidence of vulnerabilities
-- `README.md`: Project documentation
+- nessus_report:  Nessus  report
+- screenshots: Folder containing evidence of vulnerabilities
+- README.md: Project documentation
 
 ---
 
